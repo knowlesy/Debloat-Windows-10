@@ -12,7 +12,9 @@ Creators Update. Anything may happen
 
 ## Guide
 Download here .... https://github.com/knowlesy/Debloat-Windows-10.git
-Extract to C:\Temp\
+
+Extract & Browse to C:\Temp\
+
 Run the "RUN-ME-AS-ADMIN.cmd"
 
 
