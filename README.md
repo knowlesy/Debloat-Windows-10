@@ -6,6 +6,8 @@
 
 **All scripts are provided as is and you use them at your own risk.**
 
+**ALWAYS HAVE A BACKUP**
+
 **Note about Creators Update:** These scripts have *not* been tested with the
 Creators Update. Anything may happen
 
@@ -13,13 +15,14 @@ Creators Update. Anything may happen
 ## Guide
 Download here .... https://codeload.github.com/knowlesy/Debloat-Windows-10/zip/master
 
-Extract & Browse to C:\Temp\
+Run open Powershell as Admin accept UAC
 
-Run the "RUN-ME-AS-ADMIN.cmd"
+CD <extracted Folder Location\scripts>
+Set-executionpolicy -executionpolicy bypass
+Run each of the scripts
+Set-executionpolicy -executionpolicy remotesigned
 
-PC Will then Restart once the scripts have ran to escape this close the console window down after the last script or type shutdown -a
-
-
+Restart your machine
 
 ### Thanks To
 - https://github.com/W4RH4WK/
