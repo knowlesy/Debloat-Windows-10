@@ -2,19 +2,23 @@
 
 #Forked From https://github.com/W4RH4WK/Debloat-Windows-10
 
-**Note about Creators Update:** These scripts have *not* been tested with the
-Creators Update. Anything may happen
 ## Liability
 
 **All scripts are provided as is and you use them at your own risk.**
 
-## Contribute
+**Note about Creators Update:** These scripts have *not* been tested with the
+Creators Update. Anything may happen
 
-I would be happy to extend the collection of scripts. Just open an issue or
-send me a pull request.
+
+#Guide
+Download here .... https://github.com/knowlesy/Debloat-Windows-10.git
+Extract to C:\Temp\
+Run the "RUN-ME-AS-ADMIN.cmd"
+
+
 
 ### Thanks To
-
+- https://github.com/W4RH4WK/
 - [10se1ucgo](https://github.com/10se1ucgo)
 - [Plumebit](https://github.com/Plumebit)
 - [aramboi](https://github.com/aramboi)
