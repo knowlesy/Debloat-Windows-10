@@ -18,8 +18,11 @@ Download here .... https://codeload.github.com/knowlesy/Debloat-Windows-10/zip/m
 Run open Powershell as Admin accept UAC
 
 CD <extracted Folder Location\scripts>
+
 Set-executionpolicy -executionpolicy bypass
+
 Run each of the scripts
+
 Set-executionpolicy -executionpolicy remotesigned
 
 Restart your machine
