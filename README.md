@@ -11,7 +11,7 @@ Creators Update. Anything may happen
 
 
 ## Guide
-Download here .... https://github.com/knowlesy/Debloat-Windows-10.git
+Download here .... https://codeload.github.com/knowlesy/Debloat-Windows-10/zip/master
 
 Extract & Browse to C:\Temp\
 
