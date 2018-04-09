@@ -17,6 +17,8 @@ Extract & Browse to C:\Temp\
 
 Run the "RUN-ME-AS-ADMIN.cmd"
 
+PC Will then Restart once the scripts have ran to escape this close the console window down after the last script or type shutdown -a
+
 
 
 ### Thanks To
