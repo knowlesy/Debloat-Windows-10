@@ -1,0 +1,10 @@
+powershell -command "& {Set-ExecutionPolicy Unrestricted}"
+powershell -file "C:\Temp\scripts\block-telemetry.ps1"
+powershell -file "C:\Temp\scripts\disable-scheduled-tasks.ps1"
+powershell -file "C:\Temp\scripts\disable-services.ps1"
+powershell -file "C:\Temp\scripts\fix-privacy-settings.ps1"
+powershell -file "C:\Temp\scripts\optimize-user-interface.ps1"
+powershell -file "C:\Temp\scripts\optimize-windows-update.ps1"
+powershell -file "C:\Temp\scripts\remove-default-apps.ps1"
+powershell -command "& {Set-ExecutionPolicy RemoteSigned}"
+Shutdown /f /r /s
